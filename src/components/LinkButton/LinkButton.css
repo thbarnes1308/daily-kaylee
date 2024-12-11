@@ -1,0 +1,15 @@
+.link-button {
+    all: unset;
+    padding: min(2.5vw, 0.8em) min(7vw, 2.5em);
+    border-radius: 4em;
+    background-color: var(--button-colour);
+    font-size: 1.2em;
+    color: white;
+    text-decoration: none;
+    /* max-width: 80%; */
+}
+
+.link-button:hover {
+    background-color: var(--button-colour-hover);
+    cursor: pointer;
+}
