@@ -1,5 +1,3 @@
-// Get better background image
-
 import { LinkButton } from "../../LinkButton";
 
 import './Card.css';
