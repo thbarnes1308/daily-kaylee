@@ -15,7 +15,7 @@ export type CardProps = {
 export const Card = (props: CardProps) => {
     return <div className="card">
         <div className="card-upper">
-            <img src={props.img} />
+            <img alt={props.title + " image"} src={props.img} />
             <h3>{props.title}</h3>
             <ul>
                 {props.bullets.map(bullet => <li>{bullet}</li>)}
