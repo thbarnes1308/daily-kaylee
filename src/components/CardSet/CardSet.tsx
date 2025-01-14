@@ -18,17 +18,6 @@ const cards: CardProps[] = [
     linkText: "VIP OnlyFans",
   },
   {
-    img: "/manyvids.jpg",
-    title: "ManyVids",
-    bullets: [
-      "$20-50",
-      "Premium video store",
-      <b>NO DMS!</b>,
-    ],
-    linkText: "ManyVids",
-    linkHref: "https://kaylee.manyvids.com/",
-  },
-  {
     img: "/free_page.jpg",
     title: "Free OnlyFans",
     bullets: [
