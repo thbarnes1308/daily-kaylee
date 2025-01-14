@@ -6,7 +6,7 @@ import { PremiumLinks } from './components/PremiumLinks';
 
 function App() {
   if (window.location.href.includes("allmylinks.com")) {
-    window.location.replace("/");
+    window.location.replace("https://kayleeli.com/");
   }
   return (
     <div className="App">
